@@ -1,0 +1,203 @@
+[2016-09-14 21:43:32,652 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 21.349
+[2016-09-14 21:44:17,852 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 1 is 6.020
+[2016-09-14 21:44:46,989 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 2 is 5.534
+[2016-09-14 21:45:15,174 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 3 is 5.212
+[2016-09-14 21:45:43,752 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 4 is 4.940
+[2016-09-14 21:46:12,470 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 5 is 4.536
+[2016-09-14 21:46:43,276 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 6 is 4.672
+[2016-09-14 21:47:12,713 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 7 is 4.542
+[2016-09-14 21:47:42,512 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 8 is 4.318
+[2016-09-14 21:48:12,127 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 9 is 4.272
+[2016-09-14 21:48:40,327 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 10 is 4.063
+[2016-09-14 21:49:08,528 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 11 is 4.111
+[2016-09-14 21:49:36,984 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 12 is 3.919
+[2016-09-14 21:50:05,031 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 13 is 3.998
+[2016-09-14 21:50:33,369 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 14 is 3.877
+[2016-09-14 21:51:02,164 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 15 is 3.858
+[2016-09-14 21:51:30,350 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 16 is 3.859
+[2016-09-14 21:51:58,470 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 17 is 3.802
+[2016-09-14 21:52:26,195 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 18 is 3.747
+[2016-09-14 21:52:54,416 - mrnn_trainer_mscoco.py:line  104] Step 100, lr 1.000, model bucket 1(12): Avg/Cur cost: 3.695/3.957 speed: 11 sps
+[2016-09-14 21:52:54,438 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 19 is 3.695
+[2016-09-14 21:53:22,518 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 20 is 3.931
+[2016-09-14 21:53:50,557 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 21 is 3.647
+[2016-09-14 21:54:18,773 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 22 is 3.730
+[2016-09-14 21:54:46,966 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 23 is 3.609
+[2016-09-14 21:55:15,479 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 24 is 3.844
+[2016-09-14 21:55:43,311 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 25 is 3.576
+[2016-09-14 21:56:11,591 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 26 is 3.571
+[2016-09-14 21:56:40,343 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 27 is 3.497
+[2016-09-14 21:57:09,040 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 28 is 3.470
+[2016-09-14 21:57:38,809 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 29 is 3.566
+[2016-09-14 21:58:07,653 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 30 is 3.424
+[2016-09-14 21:58:35,609 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 31 is 3.470
+[2016-09-14 21:59:03,289 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 32 is 3.332
+[2016-09-14 21:59:31,779 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 33 is 3.394
+[2016-09-14 22:00:00,315 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 34 is 3.391
+[2016-09-14 22:00:29,685 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 35 is 3.394
+[2016-09-14 22:00:58,632 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 36 is 3.446
+[2016-09-14 22:01:27,140 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 37 is 3.322
+[2016-09-14 22:01:56,167 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 38 is 3.337
+[2016-09-14 22:02:25,165 - mrnn_trainer_mscoco.py:line  104] Step 200, lr 1.000, model bucket 1(12): Avg/Cur cost: 3.399/3.522 speed: 11 sps
+[2016-09-14 22:02:25,167 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 39 is 3.399
+[2016-09-14 22:02:53,375 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 40 is 3.254
+[2016-09-14 22:03:22,000 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 41 is 3.173
+[2016-09-14 22:03:49,232 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 42 is 3.160
+[2016-09-14 22:04:17,574 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 43 is 3.237
+[2016-09-14 22:04:45,865 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 44 is 3.274
+[2016-09-14 22:05:14,998 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 45 is 3.041
+[2016-09-14 22:05:42,810 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 46 is 3.134
+[2016-09-14 22:06:12,032 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 47 is 3.030
+[2016-09-14 22:06:40,260 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 48 is 2.991
+[2016-09-14 22:07:09,757 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 49 is 3.072
+[2016-09-14 22:07:37,560 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 50 is 3.038
+[2016-09-14 22:08:06,871 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 51 is 2.995
+[2016-09-14 22:08:34,393 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 52 is 2.934
+[2016-09-14 22:09:03,363 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 53 is 2.928
+[2016-09-14 22:09:32,095 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 54 is 3.009
+[2016-09-14 22:10:01,193 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 55 is 3.030
+[2016-09-14 22:10:29,395 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 56 is 2.873
+[2016-09-14 22:10:57,353 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 57 is 2.976
+[2016-09-14 22:11:26,025 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 58 is 2.767
+[2016-09-14 22:11:54,979 - mrnn_trainer_mscoco.py:line  104] Step 300, lr 1.000, model bucket 1(12): Avg/Cur cost: 2.834/3.139 speed: 11 sps
+[2016-09-14 22:11:55,231 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 59 is 2.834
+[2016-10-11 14:39:40,867 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 15.056
+[2016-10-11 14:40:22,623 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 1 is 5.277
+[2016-10-11 14:41:04,369 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 2 is 7.400
+[2016-10-11 14:41:42,790 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 3 is 5.451
+[2016-10-11 14:46:10,471 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 16.147
+[2016-10-11 14:46:41,989 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 1 is 6.383
+[2016-10-11 14:47:12,797 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 2 is 10.034
+[2016-10-11 14:47:42,407 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 3 is 5.066
+[2016-10-11 14:48:11,350 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 4 is 4.891
+[2016-10-11 17:46:13,757 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 21.768
+[2016-10-11 17:50:08,100 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 35.616
+[2016-10-11 18:08:26,576 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 37.429
+[2016-10-11 18:11:54,016 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 50.794
+[2016-10-11 18:14:35,575 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 32.043
+[2016-10-11 18:18:51,179 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 20.066
+[2016-10-11 18:25:03,646 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 6.489
+[2016-10-20 02:03:01,530 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 11.750
+[2016-10-20 02:27:43,623 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 5.867
+[2016-10-20 02:28:00,342 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 1 is 5.790
+[2016-10-20 02:28:14,201 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 2 is 5.884
+[2016-10-20 02:28:27,530 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 3 is 5.687
+[2016-10-20 02:28:41,907 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 4 is 5.091
+[2016-10-20 03:01:23,923 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 0 is 5.689
+[2016-10-20 03:01:58,533 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 1 is 5.364
+[2016-10-20 03:02:33,229 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 2 is 5.108
+[2016-10-20 03:03:08,246 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 3 is 4.713
+[2016-10-20 03:03:43,144 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 4 is 4.523
+[2016-10-20 03:04:02,711 - mrnn_trainer_mscoco.py:line  104] Step 100, lr 1.000, model bucket 0(10): Avg/Cur cost: 4.407/4.179 speed: 3 sps
+[2016-10-20 03:04:17,216 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 5 is 4.466
+[2016-10-20 03:04:51,795 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 6 is 4.345
+[2016-10-20 03:05:26,089 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 7 is 4.365
+[2016-10-20 03:06:00,754 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 8 is 4.300
+[2016-10-20 03:06:35,244 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 9 is 4.200
+[2016-10-20 03:07:09,582 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 10 is 4.112
+[2016-10-20 03:07:15,421 - mrnn_trainer_mscoco.py:line  104] Step 200, lr 1.000, model bucket 0(10): Avg/Cur cost: 4.225/4.083 speed: 2 sps
+[2016-10-20 03:07:44,222 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 11 is 4.088
+[2016-10-20 03:08:18,452 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 12 is 3.990
+[2016-10-20 03:08:53,100 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 13 is 3.876
+[2016-10-20 03:09:27,797 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 14 is 3.922
+[2016-10-20 03:10:02,221 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 15 is 3.764
+[2016-10-20 03:10:24,468 - mrnn_trainer_mscoco.py:line  104] Step 300, lr 1.000, model bucket 0(10): Avg/Cur cost: 3.600/3.800 speed: 3 sps
+[2016-10-20 03:10:36,843 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 16 is 3.650
+[2016-10-20 03:11:11,460 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 17 is 3.629
+[2016-10-20 03:11:45,884 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 18 is 3.587
+[2016-10-20 03:12:20,584 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 19 is 3.478
+[2016-10-20 03:12:55,277 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 20 is 3.284
+[2016-10-20 03:13:29,707 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 21 is 3.266
+[2016-10-20 03:13:38,785 - mrnn_trainer_mscoco.py:line  104] Step 400, lr 1.000, model bucket 2(16): Avg/Cur cost: 3.211/3.558 speed: 2 sps
+[2016-10-20 03:14:04,224 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 22 is 3.243
+[2016-10-20 03:14:38,774 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 23 is 3.124
+[2016-10-20 03:15:13,462 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 24 is 3.212
+[2016-10-20 03:15:47,890 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 25 is 2.991
+[2016-10-20 03:16:22,912 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 26 is 2.906
+[2016-10-20 03:16:50,413 - mrnn_trainer_mscoco.py:line  104] Step 500, lr 1.000, model bucket 2(16): Avg/Cur cost: 2.818/2.937 speed: 3 sps
+[2016-10-20 03:16:57,821 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 27 is 2.902
+[2016-10-20 03:17:32,067 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 28 is 2.885
+[2016-10-20 03:18:06,324 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 29 is 2.819
+[2016-10-20 03:18:40,803 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 30 is 2.725
+[2016-10-20 03:19:15,500 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 31 is 2.848
+[2016-10-20 03:19:49,943 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 32 is 2.720
+[2016-10-20 03:20:02,738 - mrnn_trainer_mscoco.py:line  104] Step 600, lr 1.000, model bucket 1(12): Avg/Cur cost: 2.225/2.721 speed: 2 sps
+[2016-10-20 03:20:24,907 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 33 is 2.453
+[2016-10-20 03:20:59,659 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 34 is 2.429
+[2016-10-20 03:21:34,290 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 35 is 2.575
+[2016-10-20 03:22:09,404 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 36 is 2.539
+[2016-10-20 03:22:44,020 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 37 is 2.131
+[2016-10-20 03:23:14,618 - mrnn_trainer_mscoco.py:line  104] Step 700, lr 1.000, model bucket 0(10): Avg/Cur cost: 2.121/2.294 speed: 3 sps
+[2016-10-20 03:23:18,729 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 38 is 2.173
+[2016-10-20 03:23:53,451 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 39 is 2.106
+[2016-10-20 03:24:27,840 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 40 is 2.063
+[2016-10-20 03:25:02,488 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 41 is 2.133
+[2016-10-20 03:25:37,194 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 42 is 2.012
+[2016-10-20 03:26:11,531 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 43 is 1.932
+[2016-10-20 03:26:28,749 - mrnn_trainer_mscoco.py:line  104] Step 800, lr 1.000, model bucket 2(16): Avg/Cur cost: 1.867/2.039 speed: 2 sps
+[2016-10-20 03:26:45,824 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 44 is 1.904
+[2016-10-20 03:27:20,228 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 45 is 1.931
+[2016-10-20 03:27:55,298 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 46 is 1.667
+[2016-10-20 03:28:29,823 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 47 is 1.784
+[2016-10-20 03:29:04,456 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 48 is 1.872
+[2016-10-20 03:29:38,770 - mrnn_trainer_mscoco.py:line  104] Step 900, lr 1.000, model bucket 2(16): Avg/Cur cost: 1.593/2.059 speed: 3 sps
+[2016-10-20 03:29:38,771 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 49 is 1.593
+[2016-10-20 03:30:13,484 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 50 is 1.577
+[2016-10-20 03:30:48,138 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 51 is 1.819
+[2016-10-20 03:31:22,406 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 52 is 1.643
+[2016-10-20 03:31:56,434 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 53 is 1.560
+[2016-10-20 03:32:31,044 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 54 is 1.335
+[2016-10-20 03:32:50,804 - mrnn_trainer_mscoco.py:line  104] Step 1000, lr 1.000, model bucket 1(12): Avg/Cur cost: 1.196/1.098 speed: 3 sps
+[2016-10-20 03:33:05,084 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 55 is 1.317
+[2016-10-20 03:33:39,366 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 56 is 1.251
+[2016-10-20 03:34:13,582 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 57 is 1.267
+[2016-10-20 03:34:48,347 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 58 is 1.386
+[2016-10-20 03:35:22,757 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 59 is 1.501
+[2016-10-20 03:35:57,235 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 60 is 1.588
+[2016-10-20 03:36:02,520 - mrnn_trainer_mscoco.py:line  104] Step 1100, lr 1.000, model bucket 1(12): Avg/Cur cost: 1.433/1.410 speed: 2 sps
+[2016-10-20 03:36:31,771 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 61 is 1.439
+[2016-10-20 03:37:06,506 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 62 is 1.508
+[2016-10-20 03:37:40,959 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 63 is 1.229
+[2016-10-20 03:38:15,263 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 64 is 1.165
+[2016-10-20 03:38:50,133 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 65 is 1.156
+[2016-10-20 03:39:13,586 - mrnn_trainer_mscoco.py:line  104] Step 1200, lr 1.000, model bucket 2(16): Avg/Cur cost: 0.958/0.910 speed: 3 sps
+[2016-10-20 03:39:24,578 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 66 is 1.041
+[2016-10-20 03:39:58,880 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 67 is 1.128
+[2016-10-20 03:40:33,306 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 68 is 0.955
+[2016-10-20 03:41:07,473 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 69 is 1.088
+[2016-10-20 03:41:42,162 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 70 is 1.061
+[2016-10-20 03:42:16,553 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 71 is 1.087
+[2016-10-20 03:42:24,992 - mrnn_trainer_mscoco.py:line  104] Step 1300, lr 1.000, model bucket 0(10): Avg/Cur cost: 1.147/0.967 speed: 2 sps
+[2016-10-20 03:42:51,219 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 72 is 1.220
+[2016-10-20 03:43:26,055 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 73 is 1.245
+[2016-10-20 03:44:00,652 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 74 is 1.173
+[2016-10-20 03:44:35,228 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 75 is 1.066
+[2016-10-20 03:45:09,936 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 76 is 1.159
+[2016-10-20 03:45:36,905 - mrnn_trainer_mscoco.py:line  104] Step 1400, lr 1.000, model bucket 1(12): Avg/Cur cost: 1.345/1.452 speed: 3 sps
+[2016-10-20 03:45:44,252 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 77 is 1.307
+[2016-10-20 03:46:19,110 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 78 is 1.144
+[2016-10-20 03:46:53,507 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 79 is 1.016
+[2016-10-20 03:47:28,000 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 80 is 1.064
+[2016-10-20 03:48:02,462 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 81 is 1.142
+[2016-10-20 03:48:36,837 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 82 is 0.925
+[2016-10-20 03:48:50,013 - mrnn_trainer_mscoco.py:line  104] Step 1500, lr 1.000, model bucket 0(10): Avg/Cur cost: 0.951/0.782 speed: 2 sps
+[2016-10-20 03:49:11,601 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 83 is 0.945
+[2016-10-20 03:49:45,950 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 84 is 0.860
+[2016-10-20 03:50:20,318 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 85 is 0.881
+[2016-10-20 03:50:54,862 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 86 is 1.038
+[2016-10-20 03:51:29,603 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 87 is 1.112
+[2016-10-20 03:51:59,942 - mrnn_trainer_mscoco.py:line  104] Step 1600, lr 1.000, model bucket 0(10): Avg/Cur cost: 1.002/1.278 speed: 3 sps
+[2016-10-20 03:52:04,216 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 88 is 1.004
+[2016-10-20 03:52:38,650 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 89 is 1.078
+[2016-10-20 03:53:13,271 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 90 is 1.096
+[2016-10-20 03:53:47,634 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 91 is 1.250
+[2016-10-20 03:54:22,450 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 92 is 1.337
+[2016-10-20 03:54:57,147 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 93 is 1.110
+[2016-10-20 03:55:13,534 - mrnn_trainer_mscoco.py:line  104] Step 1700, lr 1.000, model bucket 0(10): Avg/Cur cost: 1.226/0.880 speed: 2 sps
+[2016-10-20 03:55:31,882 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 94 is 1.150
+[2016-10-20 03:56:06,171 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 95 is 1.055
+[2016-10-20 03:56:40,701 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 96 is 0.947
+[2016-10-20 03:57:14,868 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 97 is 1.067
+[2016-10-20 03:57:49,480 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 98 is 0.941
+[2016-10-20 03:58:23,718 - mrnn_trainer_mscoco.py:line  104] Step 1800, lr 1.000, model bucket 0(10): Avg/Cur cost: 0.943/0.734 speed: 3 sps
+[2016-10-20 03:58:23,719 - mrnn_trainer_mscoco.py:line  167] Train cost for epoch 99 is 0.943
